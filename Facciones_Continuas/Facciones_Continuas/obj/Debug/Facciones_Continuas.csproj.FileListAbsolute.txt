@@ -1,0 +1,10 @@
+C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\bin\Debug\Facciones_Continuas.exe.config
+C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\bin\Debug\Facciones_Continuas.exe
+C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\bin\Debug\Facciones_Continuas.pdb
+C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.csproj.AssemblyReference.cache
+C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.Form1.resources
+C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.Properties.Resources.resources
+C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.csproj.GenerateResource.cache
+C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.csproj.CoreCompileInputs.cache
+C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.exe
+C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.pdb
