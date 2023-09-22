@@ -8,3 +8,13 @@ C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\obj\D
 C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.csproj.CoreCompileInputs.cache
 C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.exe
 C:\Users\ja383\OneDrive\Documentos\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.pdb
+C:\Users\isaac\Downloads\Facciones_Continuas\Facciones_Continuas\Facciones_Continuas\bin\Debug\Facciones_Continuas.exe.config
+C:\Users\isaac\Downloads\Facciones_Continuas\Facciones_Continuas\Facciones_Continuas\bin\Debug\Facciones_Continuas.exe
+C:\Users\isaac\Downloads\Facciones_Continuas\Facciones_Continuas\Facciones_Continuas\bin\Debug\Facciones_Continuas.pdb
+C:\Users\isaac\Downloads\Facciones_Continuas\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.csproj.AssemblyReference.cache
+C:\Users\isaac\Downloads\Facciones_Continuas\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.Form1.resources
+C:\Users\isaac\Downloads\Facciones_Continuas\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.Properties.Resources.resources
+C:\Users\isaac\Downloads\Facciones_Continuas\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.csproj.GenerateResource.cache
+C:\Users\isaac\Downloads\Facciones_Continuas\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.csproj.CoreCompileInputs.cache
+C:\Users\isaac\Downloads\Facciones_Continuas\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.exe
+C:\Users\isaac\Downloads\Facciones_Continuas\Facciones_Continuas\Facciones_Continuas\obj\Debug\Facciones_Continuas.pdb
